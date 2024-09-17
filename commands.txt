@@ -1,0 +1,3 @@
+1) add_faces.py -- used to add face to dataset and face will be recorded
+2) test.py -- record attendence of added face, press 'o' to record attendence
+3) streamlit run app.py -- attendence will be displayed here and can be downloaded in csv format
